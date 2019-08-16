@@ -1,0 +1,5 @@
+py -2 .\Exporter.py --querysearch "influenza" --since 2015-01-01 --until 2015-12-31 --maxtweets 1000 --output "influenza_2015"
+py -2 .\Exporter.py --querysearch "influenza" --since 2016-01-01 --until 2016-12-31 --maxtweets 1000 --output "influenza_2016"
+py -2 .\Exporter.py --querysearch "influenza" --since 2017-01-01 --until 2017-12-31 --maxtweets 1000 --output "influenza_2017"
+py -2 .\Exporter.py --querysearch "influenza" --since 2018-01-01 --until 2018-12-31 --maxtweets 1000 --output "influenza_2018"
+py -2 .\Exporter.py --querysearch "influenza" --since 2019-01-01 --until 2019-12-31 --maxtweets 1000 --output "influenza_2019"

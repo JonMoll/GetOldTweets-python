@@ -1,0 +1,66 @@
+Usuario: FunesStbn
+Fecha: 2016-10-28 19:24
+Retweets: 0
+Favoritos: 0
+Texto: "Una chirimacha ?"
+Locacion: 
+Menciones: 
+Hashtags: 
+ID: "792160114778210305"
+URL: https://twitter.com/FunesStbn/status/792160114778210305
+
+Usuario: JustOpenSourced
+Fecha: 2016-08-16 12:09
+Retweets: 0
+Favoritos: 0
+Texto: "chirimacha just open sourced a repository: https:// github.com/chirimacha/Goo gle-Trends_Maria …"
+Locacion: 
+Menciones: 
+Hashtags: 
+ID: "765596415754170368"
+URL: https://twitter.com/JustOpenSourced/status/765596415754170368
+
+Usuario: rios_mallqui
+Fecha: 2016-07-04 22:58
+Retweets: 0
+Favoritos: 0
+Texto: "jajaja q buina ,pero yo pensé q se iba a agarrar la chirimacha"
+Locacion: 
+Menciones: 
+Hashtags: 
+ID: "750177025499996161"
+URL: https://twitter.com/rios_mallqui/status/750177025499996161
+
+Usuario: MLunaTevez
+Fecha: 2016-06-15 14:24
+Retweets: 0
+Favoritos: 0
+Texto: "Pelos de chirimacha jalan mas que ancla de barco @juliobenjamin3"
+Locacion: 
+Menciones: @juliobenjamin3
+Hashtags: 
+ID: "743162349289349120"
+URL: https://twitter.com/MLunaTevez/status/743162349289349120
+
+Usuario: svluxe024
+Fecha: 2016-03-18 23:06
+Retweets: 0
+Favoritos: 0
+Texto: "¿Consideras que los insectos, tanto terrestres como vol… — Tengo que mencionarte el dengue, la chirimacha , o la vi… https:// l.ask.fm/igoto/45DKECPW 7B667HQMHN2IG6NM3CEC7OIUQ7QMRB55DTV3P5XUYYWNCII2NUENOQRRKK3PWHYAINVD6VSQRUY7O5MSPLULNAZXWREADFSUCZ3DGNFWD6ETOEXPSSR7JTT3ZS5YGEA73DKTJAMRICUAQTLO4DGHD5UTTTMVJ7DTRCYI4YOZAZOSDA6EYJC372WGTESKIESNXZ4IFVA= …"
+Locacion: 
+Menciones: 
+Hashtags: 
+ID: "711041128053792768"
+URL: https://twitter.com/svluxe024/status/711041128053792768
+
+Usuario: AnnaRomr
+Fecha: 2016-02-11 17:01
+Retweets: 0
+Favoritos: 0
+Texto: "I call you my chirimacha ."
+Locacion: 
+Menciones: 
+Hashtags: 
+ID: "697903187504685056"
+URL: https://twitter.com/AnnaRomr/status/697903187504685056
+
